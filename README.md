@@ -1,5 +1,5 @@
 link de muestra
-ajmrdesigns-modelogym.netlify.app
+https://ajmrdesigns-modelogym.netlify.app/
 
 # modelo-gym
 modelo de onepage para un  gimnasio
